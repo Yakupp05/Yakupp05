@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+
+![download](https://github.com/Yakupp05/Yakupp05/assets/159884608/9e60aad5-d1e0-4ad9-a2a6-928c6ba1ad0c)
 
 
  selam
