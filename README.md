@@ -1,4 +1,4 @@
-![image](https://github.com/Yakupp05/Yakupp05/assets/159884608/6dfca535-0506-40f0-b470-392ea112c27b) selam
+ selam
 
 <!--
 **Yakupp05/Yakupp05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
