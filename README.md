@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![download](https://github.com/Yakupp05/Yakupp05/assets/159884608/3a13da13-d95d-44a5-9995-2b07652022c6)
-![Uploading image.png…]()
 
 
