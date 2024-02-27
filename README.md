@@ -1,4 +1,4 @@
-![image](https://github.com/Yakupp05/Yakupp05/assets/159884608/6dfca535-0506-40f0-b470-392ea112c27b)### selam
+![image](https://github.com/Yakupp05/Yakupp05/assets/159884608/6dfca535-0506-40f0-b470-392ea112c27b) selam
 
 <!--
 **Yakupp05/Yakupp05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![download](https://github.com/Yakupp05/Yakupp05/assets/159884608/3a13da13-d95d-44a5-9995-2b07652022c6)
+
 
 
